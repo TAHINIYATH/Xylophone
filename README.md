@@ -2,7 +2,7 @@
 
 This is a mobile application built using Flutter and Dart programming languages, developed in Android Studio. The application simulates a virtual xylophone instrument, allowing users to play different musical notes by tapping on the screen.
 
-![Video Name](videos/xylophone.mp4)
+[![Xylophone](videos/xylophone.mp4)](videos/xylophone.mp4)
 
 
 ## Features
